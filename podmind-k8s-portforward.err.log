@@ -1,3 +1,0 @@
-error: lost connection to pod
-E0512 17:15:55.119292   16988 portforward.go:380] "Unhandled Error" err="error creating forwarding stream for port 8767 -> 8765: Timeout occurred"
-error: lost connection to pod
